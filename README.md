@@ -1,0 +1,2 @@
+1. Open Administrator Powershell
+2. Run `Set-ExecutionPolicy Bypass -Scope Process -Force;iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/pknam/setup/master/setup.ps1'))`
